@@ -1,0 +1,40 @@
+body {
+  background-image: url(../imgs/23.jpg);
+  width: 70%;
+  margin: 10px auto;
+  color: rgb(48, 191, 0);
+  text-align: right;
+  font-family: "Almarai", sans-serif;
+}
+header nav {
+  background-color: #a7ff35;
+  height: 60px;
+  border-radius: 5px;
+}
+header nav ul {
+  text-align: center;
+  list-style: none;
+  margin: 0 auto;
+}
+header nav ul li {
+  display: inline;
+}
+header a:link,
+header a:visited {
+  color: white;
+}
+header a:link,
+header a:visited {
+  color: white;
+  padding: 10px 20px;
+  height: 20px;
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+}
+header a:hover,
+header a:active {
+  color: white;
+  background-color: green;
+}
